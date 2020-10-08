@@ -11,7 +11,8 @@ public class WeatherApplication {
 
     public static void main(String[] args) {
         LOGGER.info("hello world");
-
+        double temperature =23.9;
+        LOGGER.info("hello world 2" );
 
     }
 }
