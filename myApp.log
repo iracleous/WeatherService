@@ -1,0 +1,4 @@
+2020-10-08 19:37:31,451 INFO [main] g.c.u.WeatherApplication [WeatherApplication.java:12] hello world
+2020-10-08 19:37:31,460 INFO [main] g.c.u.WeatherApplication [WeatherApplication.java:16] hello world 23.9
+2020-10-08 20:06:19,443 INFO [main] g.c.u.WeatherApplication [WeatherApplication.java:18] start Service
+2020-10-08 20:06:19,459 INFO [main] g.c.u.WeatherApplication [WeatherApplication.java:20] end service. return = 0.0
